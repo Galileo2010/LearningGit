@@ -1,3 +1,4 @@
 First line of master.txt.
 Second line of master.txt.
 end of master.txt.
+use echo to add some code to the end of master.txt.

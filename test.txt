@@ -1,0 +1,2 @@
+This is first line of test.txt.
+This is second line of test.txt.

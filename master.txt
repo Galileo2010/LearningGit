@@ -1,2 +1,3 @@
 First line of master.txt.
 Second line of master.txt.
+end of master.txt.
